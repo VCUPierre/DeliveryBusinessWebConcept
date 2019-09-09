@@ -1,6 +1,13 @@
 .disclaimeBtn{
   border-radius: 2rem;
 }
+.hiddenBtn{
+  border-style: none;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 20px;
+  height: 23px;
+}
 .zeroBorder{
   border-color: none;
 }
